@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "mừng ngày mùng 8/3",
-    introTitle: 'Nhung cuti khum đáng sợ',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: '
+    Muốn viết tặng cho em 
+    Một bài thơ nào ấy.
+    Nhưng nghĩ hoài chỉ thấy
+    Một từ nhớ em thôi.`,
     btnIntro: 'bấm vào đây đi bé nhung oi',
     title: 'mùng 8 tháng 3 khum biết tặng bé gì roài ngoài đoạn code này🥰',
     desc: 'mún uống tà tữa khum thì chọn nhá',
