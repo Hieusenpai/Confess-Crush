@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Muốn viết tặng cho em
 Một bài thơ nào ấy.
 Nhưng nghĩ hoài chỉ thấy
-Một từ nhớ em thôi.`,
+Một từ nhớ em thôi thơ hay chưa :V.`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
