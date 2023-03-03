@@ -1,10 +1,6 @@
 const CONFIG = {
     titleWeb: "mừng ngày mùng 8/3",
-    introTitle: '
-    Muốn viết tặng cho em 
-    Một bài thơ nào ấy.
-    Nhưng nghĩ hoài chỉ thấy
-    Một từ nhớ em thôi. thơ hay khum :v.`,
+    introTitle: 'Muốn viết tặng cho em Một bài thơ nào ấy.Nhưng nghĩ hoài chỉ thấyMột từ nhớ em thôi. thơ hay khum :v.`,
     btnIntro: 'bấm vào đây đi bé nhung oi',
     title: 'mùng 8 tháng 3 khum biết tặng bé gì roài ngoài đoạn code này🥰',
     desc: 'mún uống tà tữa khum thì chọn nhá',
